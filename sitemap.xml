@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://srsergiorodriguez.github.io/arte-comunicacion/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://srsergiorodriguez.github.io/arte-comunicacion/</loc>
+</url>
+<url>
+<loc>https://srsergiorodriguez.github.io/arte-comunicacion/acerca-de-mi.html</loc>
+<lastmod>2025-08-12T15:31:51-05:00</lastmod>
+<image:image>
+<image:loc>https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/1/minigif-4.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://srsergiorodriguez.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html</loc>
+<lastmod>2025-08-12T15:34:52-05:00</lastmod>
+<image:image>
+<image:loc>https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/paisaje4-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/paisaje4.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

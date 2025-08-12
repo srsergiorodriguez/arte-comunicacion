@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y comunicación</title>
+    <link href="https://srsergiorodriguez.github.io/arte-comunicacion/feed.xml" rel="self" />
+    <link href="https://srsergiorodriguez.github.io/arte-comunicacion" />
+    <updated>2025-08-12T15:34:52-05:00</updated>
+    <author>
+        <name>Sergio Rodríguez Gómez</name>
+    </author>
+    <id>https://srsergiorodriguez.github.io/arte-comunicacion</id>
+
+    <entry>
+        <title>Mi composición visual en Inkscape</title>
+        <author>
+            <name>Sergio Rodríguez Gómez</name>
+        </author>
+        <link href="https://srsergiorodriguez.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html"/>
+        <id>https://srsergiorodriguez.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html</id>
+        <media:content url="https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/paisaje4-2.png" medium="image" />
+            <category term="Composición visual"/>
+
+        <updated>2025-08-12T15:34:52-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/paisaje4-2.png" alt="" />
+                    Esta es mi composición visual hecha en Inkscape. Me basé en la imagen que tengo en mi cabeza de las montañas bogotanas en un día soleado. Utilicé tonos cálidos y formas redondeadas para hacer mi composición.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/paisaje4-2.png" class="type:primaryImage" alt="" /></p>
+                <p>Esta es mi composición visual hecha en Inkscape. Me basé en la imagen que tengo en mi cabeza de las montañas bogotanas en un día soleado. Utilicé tonos cálidos y formas redondeadas para hacer mi composición.</p>
+<figure class="post__image"><img loading="lazy"  src="https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/paisaje4.png" alt="" width="1920" height="1920" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/responsive/paisaje4-xs.png 300w ,https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/responsive/paisaje4-sm.png 480w ,https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/responsive/paisaje4-md.png 768w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y comunicación",
+    "description": "",
+    "home_page_url": "https://srsergiorodriguez.github.io/arte-comunicacion",
+    "feed_url": "https://srsergiorodriguez.github.io/arte-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sergio Rodríguez Gómez"
+    },
+    "items": [
+        {
+            "id": "https://srsergiorodriguez.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html",
+            "url": "https://srsergiorodriguez.github.io/arte-comunicacion/mi-composicion-visual-en-inkscape.html",
+            "title": "Mi composición visual en Inkscape",
+            "summary": "Esta es mi composición visual hecha en Inkscape. Me basé en la imagen que tengo en mi cabeza de las montañas bogotanas en un día soleado. Utilicé tonos cálidos y formas redondeadas para hacer mi composición.",
+            "content_html": "<p>Esta es mi composición visual hecha en Inkscape. Me basé en la imagen que tengo en mi cabeza de las montañas bogotanas en un día soleado. Utilicé tonos cálidos y formas redondeadas para hacer mi composición.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/paisaje4.png\" alt=\"\" width=\"1920\" height=\"1920\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/responsive/paisaje4-xs.png 300w ,https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/responsive/paisaje4-sm.png 480w ,https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/responsive/paisaje4-md.png 768w\"></figure>",
+            "image": "https://srsergiorodriguez.github.io/arte-comunicacion/media/posts/2/paisaje4-2.png",
+            "author": {
+                "name": "Sergio Rodríguez Gómez"
+            },
+            "tags": [
+                   "Composición visual"
+            ],
+            "date_published": "2025-08-12T15:34:52-05:00",
+            "date_modified": "2025-08-12T15:34:52-05:00"
+        }
+    ]
+}
